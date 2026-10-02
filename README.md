@@ -11,4 +11,4 @@ Calculated core business KPIs ($M /$K scaling) for Total Sales, Net Profit, Quan
 ## Interactive Visuals:
 Dynamic KPI cards, Category, Segment analysis, Market donut chart, Global Map, and Date range slicer.
 ## Tools
-Microsoft Excel | Power BI | Power Query | DAX | Data Visualization | Data Analysis
+Microsoft Excel | Power BI | Power Query | DAX | Data Visualization | Data Analysis | Data Cleaning
